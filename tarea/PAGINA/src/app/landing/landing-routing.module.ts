@@ -14,12 +14,12 @@ const routes: Routes = [
     path: `CONTACT`,
     component: CONTACTComponent
   },
+
   
   {
     path:`HOME`,
     component: HeaderComponent
   },
-  
 ];
 
 @NgModule({
